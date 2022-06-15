@@ -4,18 +4,6 @@
 	iy=2021,
 	imd=0304,
 	iut=1,
-	hour=17.,
-	vbeg=60.,
-	vend=600.,
-	vstp=10.,
- &end
-
- &nmiri jmag=0,
- 	xlat=37.8,
-	xlon=284.6,
-	iy=2021,
-	imd=0304,
-	iut=1,
 	hour=23.,
 	vbeg=60.,
 	vend=600.,
